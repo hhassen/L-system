@@ -1,3 +1,4 @@
+""" Use this script file to generate numerous random L-systems """
 import turtle
 import os
 from Lsystem_class import Lsystem
